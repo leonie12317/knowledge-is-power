@@ -1,0 +1,6 @@
+A breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialization of tasks […] progress flows in largely one direction (“downwards” like a waterfall)*
+Simple, easy, cheap and “natural” to use/manage
+Phases are fully completed before the next starts
+As each phase completes everything is documented and tested
+Often the best solution for smaller and/or very well defined projects
+
